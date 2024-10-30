@@ -1,1 +1,1 @@
-# -Handwritten-to-Text-Convertor-using-CNN-RNN-and-CTC
+This paper provides a software solution to automatically convert the handwritten image into text. Almost every sector and all the organizations require information. In this project, CNN and Bidirectional RNN are implemented with the help of open-source libraries like OpenCV, TensorFlow and Matlibplot in Python language to perform segmentation, normalization and feature extraction. In this model, neural network consisting of 5 CNN layers and 2 RNN layers and CTC model to decode have been used.
